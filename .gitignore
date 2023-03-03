@@ -76,6 +76,9 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.local/
+.jupyter/
+.bash_history
 
 # IPython
 profile_default/
