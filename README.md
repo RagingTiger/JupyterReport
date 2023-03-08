@@ -1,3 +1,6 @@
+# Status: Archived
+Project has evovled into a [cookiecutter template](https://github.com/cookiecutter/cookiecutter) located here: https://github.com/RagingTiger/cookiecutter-data-science
+
 # Jupyter Report
 A Jupyter Notebook template for creating PDF reports from Jupyter Notebooks.
 
